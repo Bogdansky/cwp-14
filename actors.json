@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "name": "Hugh Jackman",
+      "birth": "12 october, 1968",
+      "films": 226,
+      "liked": 11542,
+      "photo": "/images/actors/hugh_jackman.jpg"
+   },
+   {
+      "id": 2,
+      "name": "James Franko",
+      "birth": "19 april, 1978",
+      "films": 282,
+      "liked": 6554,
+      "photo": "/images/actors/james_franko.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Quetin Tarantino",
+      "birth": "27 march, 1963",
+      "films": 204,
+      "liked": 11562,
+      "photo": "/images/actors/quentin_tarantino.jpg"
+   },
+   {
+      "id": 9,
+      "name": "Good boy",
+      "birth": "The best day of the all time",
+      "films": 100,
+      "liked": 1000000,
+      "photo": "/images/actors/good_boy.jpg"
+   }
+]

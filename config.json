@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "paranoid": true
+    }
+}

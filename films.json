@@ -1,0 +1,102 @@
+[
+   {
+      "id": 1,
+      "title": "Titanic",
+      "rating": "8.369",
+      "year": 1997,
+      "budget": 200000000,
+      "gross": 2185372,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2213.jpg",
+      "position": 1
+   },
+   {
+      "id": 2,
+      "title": "12 Angry Men",
+      "rating": "8.511",
+      "year": 1956,
+      "budget": 340000,
+      "gross": 350000,
+      "poster": "12 Angry Men",
+      "position": 2
+   },
+   {
+      "id": 3,
+      "title": "Scent of a Woman",
+      "rating": "8.458",
+      "year": 1992,
+      "budget": 31000000,
+      "gross": 1340955,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_4871.jpg",
+      "position": 3
+   },
+   {
+      "id": 4,
+      "title": "Awakenings",
+      "rating": "8.444",
+      "year": 1990,
+      "budget": null,
+      "gross": 5209647,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_2950.jpg",
+      "position": 4
+   },
+   {
+      "id": 5,
+      "title": "Some Like It Hot",
+      "rating": "8.466",
+      "year": 1959,
+      "budget": 2883848,
+      "gross": 25000000,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_356.jpg",
+      "position": 5
+   },
+   {
+      "id": 6,
+      "title": "Hachi: A Dog's Tale",
+      "rating": "8.343",
+      "year": 2008,
+      "budget": 16000000,
+      "gross": 46184345,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_387556.jpg",
+      "position": 6
+   },
+   {
+      "id": 7,
+      "title": "It's a Wonderful Life",
+      "rating": "8.462",
+      "year": 1947,
+      "budget": 3180000,
+      "gross": null,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_348.jpg",
+      "position": 7
+   },
+   {
+      "id": 8,
+      "title": "City Lights",
+      "rating": "8.518",
+      "year": 1931,
+      "budget": 1500000,
+      "gross": 19181,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_414.jpg",
+      "position": 8
+   },
+   {
+      "id": 9,
+      "title": "Il buono, il brutto, il cattivo",
+      "rating": "8.540",
+      "year": 1966,
+      "budget": 1200000,
+      "gross": 25100000,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_349.jpg",
+      "position": 9
+   },
+   {
+      "id": 10,
+      "title": "Spirited Away",
+      "rating": "8.428",
+      "year": 2001,
+      "budget": 19000000,
+      "gross": 274925095,
+      "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_370.jpg",
+      "position": 10
+   }
+]
